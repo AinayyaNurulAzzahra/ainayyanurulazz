@@ -1,0 +1,7 @@
+ticket_text,category
+"I am unable to log in to my company email account using my password.",access
+"Please reset my VPN access credentials so I can connect remotely.",access
+"My monthly invoice statement shows an incorrect overcharge for last month.",billing
+"I need assistance updating my credit card details for our subscription renewal.",billing
+"The main application server is returning a 504 Gateway Timeout error.",technical
+"Database connection pools are exhausting rapidly during peak traffic hours.",technical
